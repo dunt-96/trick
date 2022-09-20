@@ -9,3 +9,6 @@ Build android apk:
 1.	react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res  (để lấy hết image, font)
 2.	cd android && ./gradlew assembleDebug
 
+Convert keystone to pem 
+- https://www.ibm.com/support/pages/perparing-pem-files-java-keystore-file-ncat-ssl-connection
+
