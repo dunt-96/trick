@@ -12,3 +12,5 @@ Build android apk:
 Convert keystone to pem 
 - https://www.ibm.com/support/pages/perparing-pem-files-java-keystore-file-ncat-ssl-connection
 
+STEP TO UPDATE KEY STORE WHEN LOST:
+https://www.devopsschool.com/blog/how-to-upload-new-keystore-or-app-signing-key-in-google-play-console-after-lost-or-forget-keystore/
